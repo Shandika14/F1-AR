@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="safetycar" size="100.000000 56.250000" />
+    <ImageTarget name="f12022" size="100.000000 56.250000" />
+    <ImageTarget name="williamsteam" size="100.000000 56.250000" />
+    <ImageTarget name="redbullteam" size="100.000000 56.250000" />
+    <ImageTarget name="racingbullsteam" size="100.000000 56.250000" />
+    <ImageTarget name="mercedesteam" size="100.000000 56.250000" />
+    <ImageTarget name="mclarenteam" size="100.000000 56.250000" />
+    <ImageTarget name="kicksauberteam" size="100.000000 56.250000" />
+    <ImageTarget name="ferrariteam" size="100.000000 56.250000" />
+    <ImageTarget name="mclarenmp4" size="100.000000 56.250000" />
+    <ImageTarget name="f12026" size="100.000000 56.250000" />
+    <ImageTarget name="f1engine" size="100.000000 56.250000" />
+    <ImageTarget name="haasteam" size="100.000000 56.250000" />
+    <ImageTarget name="auditeam" size="100.000000 56.250000" />
+    <ImageTarget name="astonmartinteam" size="100.000000 56.250000" />
+    <ImageTarget name="alpineteam" size="100.000000 56.250000" />
+  </Tracking>
+</QCARConfig>

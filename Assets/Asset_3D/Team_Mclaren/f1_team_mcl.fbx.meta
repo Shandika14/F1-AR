@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: fa05506acd28af1469ca1400dfed725c
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LCD
+    second: {fileID: 2800000, guid: ac6fbdf0ff00bad4d8d5efd06b20d333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LED_B
+    second: {fileID: 2800000, guid: 9cced9b468952c948be76666074cc140, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leds
+    second: {fileID: 2800000, guid: 3fa0aa5317e9297468fa426ff43d45e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2800000, guid: 8ead839a3d33b3c4190ac72029c72aba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TCAM
+    second: {fileID: 2800000, guid: c16b7804c788f6c4aadefff8002d4115, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tyre
+    second: {fileID: 2800000, guid: 9972e29ecb1d1da49a74eef3522e72c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon-fiber_color
+    second: {fileID: 2800000, guid: cf0abe81aa18a0a408ba625aa60776ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon-fiber_nm
+    second: {fileID: 2800000, guid: 298c6512c6d5e624c9255a31233bc0d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon3_diffuse
+    second: {fileID: 2800000, guid: 67006ee4bd01e2d4fa163e4e8d0f91ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carbon5_diffuse
+    second: {fileID: 2800000, guid: 5e09c76128beefc4689b7cf805388672, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cockpit_carbon
+    second: {fileID: 2800000, guid: 299a4b5be607394409c61cbb2ab88134, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cockpit_metal
+    second: {fileID: 2800000, guid: 9f148d350c453b548b20292a3c0ac5ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cockpit_metal_diffuse
+    second: {fileID: 2800000, guid: 5d4c93fad0a96874abaacae0b06b5d8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: disc_d
+    second: {fileID: 2800000, guid: b00718920a69f93408c2f000fb2d56ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: display_spons
+    second: {fileID: 2800000, guid: ea1df49b71494484e9ba41b5c7073f7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: generic_main_d
+    second: {fileID: 2800000, guid: e43f3673dc1124849bc43b2816267018, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: glass_da
+    second: {fileID: 2800000, guid: dd04df763ea99a44e89a15aa9af9c1f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halo_diffuse
+    second: {fileID: 2800000, guid: 4a805a4163687f84c81f3c3c0eb6ce9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: int_carbon-fiber
+    second: {fileID: 2800000, guid: bc79c8c7075173e42a0bfe95448a59a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lcd_glass
+    second: {fileID: 2800000, guid: 41cefdca0bacaa94dbf519d8cdcc44f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_decal_da
+    second: {fileID: 2800000, guid: 34c1efdeeedfed6429d44561fbec1713, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_decal_halo
+    second: {fileID: 2800000, guid: 8f7f6eb6af1373943b6b362a93461254, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_detail_d
+    second: {fileID: 2800000, guid: 23bc5e0f24f0c32438adc62510c1747b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_driver_4
+    second: {fileID: 2800000, guid: 570038354245db64c9a0d8843a891273, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_driver_FN
+    second: {fileID: 2800000, guid: d29e199abc6f39a4cabd965c33205dcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_driver_FO
+    second: {fileID: 2800000, guid: 85fc1008759af654d8b841b65d72e6ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_paint_d
+    second: {fileID: 2800000, guid: f8ffd98376dab844e95712a9d6cd5282, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_paint_d2
+    second: {fileID: 2800000, guid: 081e8095c08529c428f0d19ba402f9c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_steering_wheel_d
+    second: {fileID: 2800000, guid: 7fad4344e2679ee40b2b8fe39d2cfbfd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_steering_wheel_decal_da
+    second: {fileID: 2800000, guid: 47521535f2693b943a780b28b24b11e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mclaren_wheel_d
+    second: {fileID: 2800000, guid: 7f8f89944f8acc241b5a50c8b4e526f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rear_light_d
+    second: {fileID: 2800000, guid: 479ee2c5dcf28d14da62f018870b82c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: seat_diffuse
+    second: {fileID: 2800000, guid: c6c6dee1ee3f11b44947f2c28f51f8f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: steer_dark_diffuse
+    second: {fileID: 2800000, guid: 37e6aaa3fd10403439ceff05668d2d0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: steer_gray_diffuse
+    second: {fileID: 2800000, guid: 101e04cbcc3c7ab47b41eee07f2232d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: steer_rubber_diffuse
+    second: {fileID: 2800000, guid: ce3bf62eec47c24498c75c86df3f6cc3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sw_metal_diffuse
+    second: {fileID: 2800000, guid: ea016f3c96be33745ac0eba29fe9c0e1, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
